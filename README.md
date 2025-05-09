@@ -1,15 +1,6 @@
 # wushihang_hw2_v1
 ---
-# 文件夹结构
-wushihang_hw2_v1/
-├── EmbeddedAssign1/
-├── EmbeddedAssign2/
-│   └── EmbeddedAssign2_1/
-│   └── EmbeddedAssign2_2/
-├── EmbeddedAssign3/
-│   └── EmbeddedAssign3_1/
-│   └── EmbeddedAssign3_2/
-└── README.md
+# 文件夹描述
 | 项目  | 内容  |
 |--------|--------|
 | EmbeddedAssign1  | 流水灯  |
